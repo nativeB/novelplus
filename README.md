@@ -2,7 +2,7 @@
 
 Scriptor — a writing companion for long-form fiction authors using AI in their process. Manages chapter structure, world bible, and catches consistency errors before your readers do.
 
-**[novelplus-g157.vercel.app](https://novelplus-g157.vercel.app)**
+**[scriptor-g157.vercel.app](https://scriptor-g157.vercel.app)**
 
 https://github.com/user-attachments/assets/48520455-1695-4fe4-af46-17382bb90e3d
 
