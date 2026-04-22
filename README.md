@@ -60,7 +60,7 @@ Export your entire novel — chapters, bible entries, everything — as a single
 ### 1. Clone and install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nativeB/novelplus.git
 cd novelplus
 npm install
 ```
@@ -71,7 +71,7 @@ Create `.env.local` in the project root:
 
 ```
 ANTHROPIC_API_KEY=sk-ant-...
-ANTHROPIC_MODEL=claude-sonnet-4-6
+ANTHROPIC_MODEL=claude-sonnet-4-5
 ```
 
 The AI features (revision panel, extract, scan chapter) won't work without this. Everything else — editor, bible, consistency checker, search — works offline with no key.
